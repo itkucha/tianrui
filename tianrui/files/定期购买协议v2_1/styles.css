@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u2157_img {
+#u2270_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:377px;
   height:817px;
 }
-#u2157 {
+#u2270 {
   border-width:0px;
   position:absolute;
   left:140px;
@@ -33,20 +33,20 @@
   height:817px;
   display:flex;
 }
-#u2157 .text {
+#u2270 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2157_text {
+#u2270_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u2158_div {
+#u2271_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -61,7 +61,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u2158 {
+#u2271 {
   border-width:0px;
   position:absolute;
   left:550px;
@@ -70,19 +70,19 @@
   height:73px;
   display:flex;
 }
-#u2158 .text {
+#u2271 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u2158_text {
+#u2271_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u2159 {
+#u2272 {
   border-width:0px;
   position:absolute;
   left:497px;
@@ -90,7 +90,7 @@
   width:0px;
   height:0px;
 }
-#u2159_seg0 {
+#u2272_seg0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -98,7 +98,7 @@
   width:58px;
   height:10px;
 }
-#u2159_seg1 {
+#u2272_seg1 {
   border-width:0px;
   position:absolute;
   left:41px;
@@ -106,7 +106,7 @@
   width:20px;
   height:20px;
 }
-#u2159_text {
+#u2272_text {
   border-width:0px;
   position:absolute;
   left:-24px;
@@ -116,7 +116,7 @@
   text-transform:none;
   visibility:hidden;
 }
-#u2160_img {
+#u2273_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -124,7 +124,7 @@
   width:386px;
   height:837px;
 }
-#u2160 {
+#u2273 {
   border-width:0px;
   position:absolute;
   left:1226px;
@@ -133,20 +133,20 @@
   height:837px;
   display:flex;
 }
-#u2160 .text {
+#u2273 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2160_text {
+#u2273_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u2161_img {
+#u2274_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -154,7 +154,7 @@
   width:127px;
   height:40px;
 }
-#u2161 {
+#u2274 {
   border-width:0px;
   position:absolute;
   left:1356px;
@@ -163,20 +163,20 @@
   height:40px;
   display:flex;
 }
-#u2161 .text {
+#u2274 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u2161_text {
+#u2274_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u2162_div {
+#u2275_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -193,7 +193,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u2162 {
+#u2275 {
   border-width:0px;
   position:absolute;
   left:1387px;
@@ -204,23 +204,23 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u2162 .text {
+#u2275 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u2162_text {
+#u2275_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u2163 label {
+#u2276 label {
   left:0px;
   width:100%;
 }
-#u2163_img {
+#u2276_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -228,7 +228,7 @@
   width:12px;
   height:12px;
 }
-#u2163 {
+#u2276 {
   border-width:0px;
   position:absolute;
   left:163px;
@@ -238,25 +238,25 @@
   display:flex;
   font-size:14px;
 }
-#u2163 .text {
+#u2276 .text {
   position:absolute;
   align-self:center;
   padding:0px 2px 0px 2px;
   box-sizing:border-box;
 }
-#u2163_img.selected {
+#u2276_img.selected {
 }
-#u2163.selected {
+#u2276.selected {
 }
-#u2163_img.disabled {
+#u2276_img.disabled {
 }
-#u2163.disabled {
+#u2276.disabled {
 }
-#u2163_img.selectedDisabled {
+#u2276_img.selectedDisabled {
 }
-#u2163.selectedDisabled {
+#u2276.selectedDisabled {
 }
-#u2163_text {
+#u2276_text {
   border-width:0px;
   position:absolute;
   left:14px;
@@ -265,7 +265,7 @@
   word-wrap:break-word;
   text-transform:none;
 }
-#u2163_input {
+#u2276_input {
   border-width:0px;
   position:absolute;
   left:0px;
